@@ -1,4 +1,4 @@
-Click [here](https://banklanding-3ead0.web.app) to view the live site
+Click [here](https://banklanding-3ead0.web.app) to view the live site (CTRL+click to open in new tab)
 
 # modern-bank-landing
 
