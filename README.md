@@ -6,7 +6,7 @@ Initialized with Vite + React
 
 Modern banking app landing page concept
 
-> React
-> Tailwindcss
-> 97% Lighthouse score
-> Need meta descriptions to improve SEO
+- React & Vite
+- Tailwindcss
+- 97% Lighthouse score
+- Need meta descriptions to improve SEO
